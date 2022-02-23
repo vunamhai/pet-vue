@@ -113,7 +113,7 @@ body{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
-  margin-left: 5px;
+  
 }
 
 #app {
@@ -121,7 +121,7 @@ body{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; 
   color: #2c3e50;
-  margin-top: 5px;
+  margin-top: 2px;
 
 }
 </style>
